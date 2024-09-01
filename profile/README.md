@@ -1,0 +1,2 @@
+# ⚠️ Organization Move Notification (Effective Sep 1, 2024)
+Effective September 1st, 2024, all repositories and content associated with the Modern Innovation Network have been relocated and will now be maintained under the [Modern Innovation Network](https://github.com/ModernInnovationNetwork) organization.
